@@ -1,0 +1,43 @@
+li a{
+    float: left;
+    margin-left:10px;
+}
+
+table{
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+.ftd{
+    font: 17px/25.5px '宋体','新宋',sans-serif;
+    width: 70px;
+}
+
+#container{
+    width: 900px;
+    height: 800px;
+    /*border: 1px solid red;*/
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+
+.love{
+    width: 230px;
+    height: 225px;
+    /*border: 1px solid red;*/
+}
+
+.reciver{
+    padding-top: 30px;
+    /*border: solid red;*/
+}
+.cont{
+    padding-top: 10px;
+    /*border: solid red;*/
+    width: 255px;
+    height: 105px;
+}
+.sender{
+    /*border: solid red;*/
+}
